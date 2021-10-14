@@ -1,0 +1,23 @@
+*{
+    padding-top: 50px;
+}
+.aa{
+    display: none;
+}
+.banner{
+    display:none;
+    background-image : url('../img/cover.png')
+}
+.md{
+    display: none;
+}
+
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: blue;
+      }
+    .md{
+        display: block;
+    }
+  }

@@ -1,0 +1,11 @@
+.col-6{
+    height: 300px;
+}
+
+.false{
+
+    background-color: brown;
+}
+.true{
+    display: none;
+}

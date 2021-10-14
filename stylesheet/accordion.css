@@ -1,0 +1,17 @@
+.accordion-item p{
+    color: white;
+}
+.accordion{
+    padding: 20px;
+    width: 300px;
+    float: right;
+}
+
+.accordion-button,#collapse{
+    color: white;
+    background-color: orangered;
+}
+.title{
+    color:white;
+    background-color: tomato;
+}

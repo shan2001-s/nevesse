@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+   
+   }
+   
+   
+   
+   .navbar {
+     overflow: hidden;
+     float: right;
+     background: rgb(80, 80, 228);;
+     
+   }
+   
+   .navbar a {
+     float: left;
+     font-size: 16px;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+   }
+   
+   .dropdown {
+     float: left;
+     overflow: hidden;
+   }
+   
+   .dropdown .dropbtn {
+     font-size: 16px;  
+     border: none;
+     outline: none;
+     color: white;
+     padding: 14px 16px;
+     background-color: inherit;
+     font: inherit;
+     margin: 0;
+   }
+   
+   .navbar a:hover, .dropdown:hover .dropbtn {
+     background-color:navy;
+   }
+   
+   .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: #f9f9f9;
+     width: 100%;
+     left: 0;
+     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+     z-index: 1;
+   }
+   
+   .dropdown-content .header {
+     background: red;
+     padding: 16px;
+     color: white;
+   }
+   
+   .dropdown:hover .dropdown-content {
+     display: block;
+   }
+   
+   
+   .column {
+     float: left;
+     width: 22.33%;
+     padding: 10px;
+    
+    
+     height:100%;
+     margin: 40px;
+   }
+
+   .column1 {
+    float: left;
+    width: 22.33%;
+    padding: 10px;
+    background-color:green;
+    height:100%;
+  }
+  .column2 {
+    float: left;
+    width: 22.33%;
+    padding: 10px;
+    background-color:grey;
+    height:100%;
+  }
+  .column1>a,.column1>h3 {
+    
+    background-color:green;
+    text-align: left;
+  
+  }
+  .column2>a,.column2>h3 {
+    
+    background-color:gray;
+    text-align: left;
+  
+  }
+   
+   .column  a,.column1 a,.column2 a {
+     float: none;
+     color:white;
+     padding: 16px;
+     text-decoration: none;
+     display: block;
+     text-align: left;
+   }
+   h3{
+       color: white;
+       padding: 16px;
+   }
+   
+  .column1 a:hover {
+     background-color: rgb(98, 88, 241);
+   }
+   .column2 a:hover {
+    background-color: rgb(98, 88, 241);
+  }
+  .column a:hover {
+    background-color: rgb(98, 88, 241);
+  }
+   
+   
+   .row:after {
+     content: "";
+     display: table;
+     clear: both;
+   }
+   @media screen and (max-width: 600px) {
+ .column, .column1, .column2 {
+   width: 100%;
+   height: auto;
+ }
+}

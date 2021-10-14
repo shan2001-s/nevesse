@@ -1,0 +1,14 @@
+.glass_detail{
+   
+    display: flex;
+   padding: 20px;
+   box-shadow: 5px 5px 5px 5px rgb(53, 53, 224);
+}
+.img_detail{
+    float: left;
+    padding: 5px;
+}
+
+.other{
+    clear: both;
+}

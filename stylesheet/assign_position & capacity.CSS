@@ -1,0 +1,205 @@
+.banner_photo{
+    display:flex;
+    justify-content: center;
+    background-color: wheat;
+}
+
+.text1{
+    background-color: rgb(41, 27, 233);
+    width: 300px;
+   
+    position: relative;
+    left:300px;
+    opacity: .5;
+   
+ 
+}
+.text2{
+    background-color: rgb(41, 27, 233);
+    width: 300px;
+   
+    position:absolute;
+    left:300px;
+    
+   
+ 
+}
+h3{
+    color: rgb(255, 255, 255);
+   padding: 10px;
+  
+   
+   
+}
+p{
+    color: white;
+  padding: 10px;
+}
+
+button{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(231, 89, 6);
+    margin-left: 60px;
+}
+.banner_photo2{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px ;
+  
+}
+.photo2_1{
+    padding:50px;
+   
+}
+.photo2_2{
+    padding:50px;
+}
+.text2_1_1{
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 770px;
+    color: white;
+    padding: 10px;
+}
+.text2_1_2{
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 770px;
+    color: white;
+    padding: 10px;
+}
+.text2_2_1{
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 590px;
+    left:480px;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    font-size:x-small;
+    text-align: center;
+}
+.text2_2_2{
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 590px;
+    left:880px;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    font-size:x-small;
+    text-align: center;
+}
+.photo3{
+    display:flex;
+    justify-content: center;
+    background-color: wheat;
+    padding: 50px ;
+    
+}
+.text3{
+  
+        position: absolute;
+        background-color: rgb(12, 0, 121);
+        top: 1200px;
+        left: 100px;
+        color: white;
+        padding: 10px;
+        
+    
+ 
+    
+}
+.text4{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 250px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text5{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 400px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text6{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 550px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text7{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 700px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text8{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 850px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text9{
+  
+    position: absolute;
+    background-color: rgb(12, 0, 121);
+    top: 1200px;
+    left: 1000px;
+    color: white;
+    padding: 10px;
+    
+
+
+
+}
+.text10{
+  
+    position: absolute;
+    background-color: rgb(255, 115, 0);
+    top: 1200px;
+    left: 1100px;
+    color: white;
+    padding: 10px;
+    
+    
+
+
+
+}

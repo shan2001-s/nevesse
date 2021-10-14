@@ -1,0 +1,10 @@
+.banner{
+    background-image: url('../img/download.jpg');
+    background-size: cover;
+    width:  auto;
+    height: 500px;
+}
+#p{
+    background-color: darkblue;
+   
+}

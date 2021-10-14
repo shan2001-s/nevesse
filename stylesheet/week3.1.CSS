@@ -1,0 +1,81 @@
+.banner_container{
+    background-color: coral;
+  
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    display: flex;
+}
+.blog{
+    display: flex;
+    justify-content: center;
+}
+#div1{
+    background-color: rgb(240, 183, 162);
+    width: 200px;
+    height: 100px;
+    position: relative;
+    top:10px;
+    left: 50px;
+    z-index: 3;
+}
+#div2{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 100px;
+    z-index: 1;
+}
+#div3{
+    background-color: cyan;
+    width: 200px;
+    height: 100px;
+    right:  20px;
+    z-index: 2;
+
+
+}
+.news{
+    display:flex;
+    justify-content: center;
+    background-color: wheat;
+}
+.news1{
+    background-color: violet;
+    width: 300px;
+    height: 200px;
+}
+.news2{
+    background-color: rgb(137, 130, 238);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top:10px;
+    left:50px;
+}
+.news3{
+    background-color: rgb(134, 238, 130);
+    width: 300px;
+    height: 200px;
+}
+.photo{
+   
+    justify-content: center;
+    background-color: wheat;
+    width: 100%;
+}
+.photo{
+    display:flex;
+    justify-content: center;
+    background-color: wheat;
+}
+.photo_text{
+    background-color: rgb(137, 130, 238);
+    width: 300px;
+    height: 20px;
+    position: absolute;
+  bottom: 10px;
+    right:50px;
+    
+}
+

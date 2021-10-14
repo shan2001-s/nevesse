@@ -1,0 +1,36 @@
+*{
+    padding-top: 50px;
+}
+
+.banner{
+    display:none;
+    background-image : url('../img/cover.png');
+    height: 400px;
+    
+}
+
+
+@media screen and (min-width:600px){
+    .banner{
+        display:block;
+    }
+}
+/* Set the background color of body to tan */
+body {
+    background-color: tan;
+  }
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (min-width: 900px) {
+    body {
+      background-color: rgb(0, 0, 0);
+    }
+  }
+  
+  /* On screens that are 992px or less, set the background color to blue */
+  @media screen and (min-width: 500px) {
+    body {
+      background-color: blue;
+    }
+  }
+  
+  

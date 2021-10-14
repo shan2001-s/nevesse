@@ -1,0 +1,9 @@
+.p1{
+    color:white;
+    font-size: 20px;
+}
+.box{
+    height: 100px;
+    background-color: tomato;
+    border:solid 2px chartreuse;
+}

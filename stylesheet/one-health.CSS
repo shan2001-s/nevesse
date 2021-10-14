@@ -1,0 +1,250 @@
+html{
+    background-color: rgb(224, 221, 221);
+}
+span{
+    color: yellowgreen;
+}
+.band-name{
+    font-size: 20px;
+    float: right;
+}
+.menu{
+    font-size: 12px;
+    padding:  5px ;
+    float: right;
+    background-color: rgb(224, 221, 221);
+    border: none;
+    margin-right: 10px;
+}
+
+.login{
+    font-size: 12px;
+    padding:  5px ;
+    float: right;
+  
+   
+}
+ul li{
+    background-color: teal;
+    list-style: none;
+  
+    padding:20px;
+}
+ul li a{
+    background-color: turquoise;
+    text-decoration: none;
+    float: right;
+}
+
+.banner{
+    clear: right;
+    background-image: url(../img/coverblue.png);
+    background-size: cover;
+    height: 500px;
+}
+.banner_text{
+   text-align: center;
+    padding-top: 110px;
+    line-height: 10px;
+    
+   
+}
+button{
+    border-radius: 10px;
+    font-weight:800;
+    padding: 10px 20px;
+    color:navy;
+    background-color:  rgb(250, 250, 112);
+    ;
+   
+   
+    font-size: 16px;
+   
+}
+
+button:hover{
+    background-color: gray;
+}
+    
+
+.heading{
+   
+    letter-spacing: 4px;
+    color: blanchedalmond;
+   font-size: 13px;
+   font-style: inherit;
+   text-transform: uppercase;
+   
+}
+.sub_heading{
+    font-size: 37px;
+    color: ivory;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+   
+}
+.banner_selection{
+    margin-top: -50px;
+   
+    margin-left: 40px;
+    background-color: maroon;
+    
+    
+}
+.selection1{
+    border-radius: 10px;
+    margin-left: 40px;
+    padding:15px;
+   float: left;
+    width: 23.3%;
+    
+   background-color:white;
+   
+    
+}
+.selection2{
+    border-radius: 10px;
+    margin-left: 40px;
+    padding:15px;
+   float: left;
+    width: 23.3%;
+    
+   background-color:white;
+    
+}
+.selection3{
+    border-radius: 10px;
+    margin-left: 40px;
+    padding:15px;
+   float: left;
+    width: 23.3%;
+    
+   background-color:white;
+   
+}
+#chat{
+    
+    border-radius: 50%;
+    font-size: 20px;
+    background-color: #4E5AFE;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    align-items: center;
+}
+#protect{
+    
+    border-radius: 50%;
+    font-size: 20px;
+    background-color:rgb(121, 194, 11);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    align-items: center;
+}
+#shopping{
+    
+    border-radius: 50%;
+    font-size: 20px;
+    background-color: rgb(252, 110, 133);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    align-items: center;
+}
+a{
+    font-size: 20px;
+}
+.doctor{
+   clear: left;
+   padding: 100px ;
+  height: 300px;
+ 
+
+ 
+ 
+  
+  
+}
+#Welcome_center 
+{
+  
+    float: left;
+    width: 50%;
+   
+}
+#doctor_photo{
+  margin-left: 10px;
+    float: right;
+    width:30%;
+    height: 100%;
+   
+   
+}
+.our_doctor_background{
+    clear: right;
+    text-align: center;
+    padding-top: 30px;
+    background-color: white;
+    height: 500px;
+   
+    
+}
+.our_doctor_photo{
+    border-radius: 10px;
+    margin-left: 40px;
+    padding:15px;
+   float: left;
+    width: 23.3%;
+   text-align: center;
+  
+    
+   background-color:rgb(241, 241, 241);
+
+}
+.arrow_button{
+    clear: left;
+    border-radius: 40px;
+    margin-left: -22px;
+    border: white;
+    padding-top: 10px;
+   
+}
+.latest_news_background{
+    clear: right;
+    text-align: center;
+    padding-top: 30px;
+    
+    height: 420px;
+}
+.banner_table{
+    
+    background-color: white;
+    padding: 50px ;
+    text-align: center;
+    align-items: center;
+   
+}
+
+.news{
+    
+    float: left;
+    height: 15%;
+    width: 23.3%;
+    line-height: 10px;
+}h3,p{
+    padding:0  25px 0 25px;
+   
+}
+.media_button{
+    clear: left;
+    border-radius: 50%;
+    margin-left: 5px;
+    border: white;
+    padding-top: 10px;
+   
+}
+
+
+
+
+

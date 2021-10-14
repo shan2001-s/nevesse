@@ -1,0 +1,41 @@
+.carousel-control-next-icon, .aa{
+    display: flex;
+ position: relative;
+  color: rgb(12, 12, 131);
+  top:400px;
+ 
+  font-size: xx-large;
+  background-color: blue;
+}
+h3{
+    color: blue;
+    float: right;
+    background-color: white;
+    padding: 5px;
+    margin-right: -80px;
+}
+p{
+    float:right;
+    position: relative;
+    background-color: rgb(12, 12, 131);
+   bottom: 120px;
+    right: 300px;
+}
+img{
+    height: 800px;
+}
+.b{
+    font-size: x-large;
+    color: #000;
+    
+}
+h4{
+    color: rgb(5, 5, 70);
+    float: right;
+  
+    padding: 5px;
+    margin-right: -80px;
+    position: relative;
+   bottom:60px;
+   
+}
